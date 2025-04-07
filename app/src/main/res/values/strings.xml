@@ -1,0 +1,86 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">30 days of Wellness</string>
+    <string name="day_1">Day 1</string>
+    <string name="day_2">Day 2</string>
+    <string name="day_3">Day 3</string>
+    <string name="day_4">Day 4</string>
+    <string name="day_5">Day 5</string>
+    <string name="day_6">Day 6</string>
+    <string name="day_7">Day 7</string>
+    <string name="day_8">Day 8</string>
+    <string name="day_9">Day 9</string>
+    <string name="day_10">Day 10</string>
+    <string name="day_11">Day 11</string>
+    <string name="day_12">Day 12</string>
+    <string name="day_13">Day 13</string>
+    <string name="day_14">Day 14</string>
+    <string name="day_15">Day 15</string>
+    <string name="day_16">Day 16</string>
+    <string name="day_17">Day 17</string>
+    <string name="day_18">Day 18</string>
+    <string name="day_19">Day 19</string>
+    <string name="day_20">Day 20</string>
+    <string name="day_21">Day 21</string>
+    <string name="day_22">Day 22</string>
+    <string name="day_23">Day 23</string>
+    <string name="day_24">Day 24</string>
+    <string name="day_25">Day 25</string>
+    <string name="day_26">Day 26</string>
+    <string name="day_27">Day 27</string>
+    <string name="day_28">Day 28</string>
+    <string name="day_29">Day 29</string>
+    <string name="day_30">Day 30</string>
+
+
+
+    <string name="day_description_1">Manter uma alimentação saudável ajuda o corpo a funcionar melhor, dá mais energia e previne doenças. Consiste em comer bem e evitar excessos.</string>
+    <string name="day_description_2">Atividade física faz bem para o corpo e a mente, melhora o humor e dá mais disposição.</string>
+    <string name="day_description_3">Manter uma boa regulagem de sono dormir bem ajuda na concentração, no humor e na saúde em geral.</string>
+    <string name="day_description_4">Ficar um tempo sem redes sociais ajuda a reduzir a ansiedade e melhora o foco no presente.</string>
+    <string name="day_description_5">Hidratação beber água ao longo do dia mantém o corpo funcionando bem.</string>
+    <string name="day_description_6">Leia mais livros estimula a criatividade, reduz o estresse e melhora o vocabulário.</string>
+    <string name="day_description_7">Desenvolver o hábito de estudar traz crescimento pessoal e abre portas para novas oportunidades.</string>
+    <string name="day_description_8">Seja mais gentil com as pessoas à sua volta gentileza gera conexões melhores e torna o ambiente mais leve.</string>
+    <string name="day_description_9">Meditar por 5 a 10 minutos por dia ajuda a acalmar a mente, melhorar o foco e reduzir o estresse.</string>
+
+    <string name="day_description_10">Evitar o celular ao acordar, começar o dia sem distrações melhora a clareza mental e o foco.</string>
+    <string name="day_description_11">Escrever um diário ajuda a organizar os pensamentos e refletir sobre o dia.</string>
+    <string name="day_description_12">Gratidão diária lembrar do que você é grato muda o foco para o positivo.</string>
+    <string name="day_description_13">Organizar o ambiente ambientes organizados melhoram o bem-estar e a produtividade.</string>
+    <string name="day_description_14">Estabelecer metas ter objetivos claros ajuda na motivação e direcionamento.</string>
+    <string name="day_description_15">Fazer pausas durante o trabalho evita o cansaço mental e melhora o rendimento.</string>
+    <string name="day_description_16">Cuidar da postura previne dores e melhora a presença corporal no dia a dia.</string>
+    <string name="day_description_17">Ouvir músicas calmas, música suave ajuda a relaxar e a manter a mente tranquila.</string>
+    <string name="day_description_18">Aproveitar a luz natural melhora o humor e regula o ciclo do sono.</string>
+    <string name="day_description_19">Planejar o dia na noite anterior facilita a organização e reduz a ansiedade pela manhã.</string>
+    <string name="day_description_20">Fazer alongamentos melhora a flexibilidade e reduz tensões acumuladas no corpo.</string>
+    <string name="day_description_21">Evitar excesso de cafeína controlar o consumo melhora o sono e a ansiedade.</string>
+    <string name="day_description_22">Cultivar bons relacionamentos estar perto de pessoas positivas fortalece o emocional.</string>
+    <string name="day_description_23">Economizar dinheiro, guardar um pouco a cada mês traz segurança e liberdade.</string>
+    <string name="day_description_24">Evitar reclamações, focar em soluções ajuda a ter uma vida mais leve e produtiva.</string>
+    <string name="day_description_25">Respirar profundamente, técnicas de respiração acalmam e trazem foco instantâneo.</string>
+    <string name="day_description_26">Celebrar pequenas conquistas, reconhecer os próprios avanços motiva e reforça o progresso.</string>
+    <string name="day_description_27">Tomar banhos frios (ou mornos) estimula a circulação e pode melhorar o humor e a energia.</string>
+    <string name="day_description_28">Anotar ideias que surgirem evita esquecer boas ideias e ajuda na criatividade.</string>
+    <string name="day_description_29">Escutar mais do que falar aumenta a empatia e fortalece os relacionamentos.</string>
+    <string name="day_description_30">Evitar julgar os outros estimula empatia, respeito e convivência mais leve.</string>
+
+    <string name="about">Veja mais:</string>
+    <string name="years_old"></string>
+    <string name="expand_button_content_description">Veja mais ou menos informações</string>
+</resources>
